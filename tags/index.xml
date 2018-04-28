@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 小蜜蜂</title>
+    <link>http://xmfsimida.github.io/tags/</link>
+    <description>Recent content in Tags on 小蜜蜂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018  xumf.net&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 22:21:04 +0800</lastBuildDate>
+    
+	<atom:link href="http://xmfsimida.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Centos</title>
+      <link>http://xmfsimida.github.io/tags/centos/</link>
+      <pubDate>Sun, 22 Apr 2018 22:21:04 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://xmfsimida.github.io/tags/java/</link>
+      <pubDate>Thu, 26 Apr 2018 23:13:45 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>http://xmfsimida.github.io/tags/maven/</link>
+      <pubDate>Sun, 22 Apr 2018 13:42:22 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabbitmq</title>
+      <link>http://xmfsimida.github.io/tags/rabbitmq/</link>
+      <pubDate>Sun, 22 Apr 2018 22:21:04 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/rabbitmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>http://xmfsimida.github.io/tags/redis/</link>
+      <pubDate>Sun, 22 Apr 2018 15:43:54 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>http://xmfsimida.github.io/tags/spring/</link>
+      <pubDate>Thu, 26 Apr 2018 23:13:45 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat</title>
+      <link>http://xmfsimida.github.io/tags/tomcat/</link>
+      <pubDate>Sun, 22 Apr 2018 13:16:53 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://xmfsimida.github.io/tags/work/</link>
+      <pubDate>Thu, 19 Apr 2018 21:09:25 +0800</pubDate>
+      
+      <guid>http://xmfsimida.github.io/tags/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
